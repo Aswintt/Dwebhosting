@@ -1,0 +1,10 @@
+{
+  "5777": {
+    "FileStorage": [
+      "0x53bbaD702a64032D6479C3acfb915Be1d0600Cf7"
+    ],
+    "MockV3Aggregator": [
+      "0x37746C78f99fA46B29AbeAAf5b78CbEE4A3Cf527"
+    ]
+  }
+}
